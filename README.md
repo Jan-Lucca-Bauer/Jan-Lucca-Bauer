@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Jan
 
-<!--
-**Jan-Lucca-Bauer/Jan-Lucca-Bauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a stundent from Germany and an aspiring software developer with an interest in programming, computer science and understanding how things work under the hood.
 
-Here are some ideas to get you started:
+I started programming with the visual programming platform Scratch, and gradually moved towards text-based languages and more technicals projects. I enjoy experimenting with ideas, building systems from scratch and figuring things out.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+* Student from Germany
+* Aspriring software developer and hobbyist programmer
+* Started with visual programming and gradually moved towards text-based languages
+* Interest in software architecture, algorithms and computer systems
+* Enjoy experiementing with technical ideas and building things from scratch
+* Interest in game programming, game design and storytelling
+* Currently learning C# and expanding my programming knowledge
+
+## Technologies & Tools
+
+### Programming
